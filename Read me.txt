@@ -1,0 +1,9 @@
+Thanks for this opportunity to develope this app
+
+
+You can use this to log into the admin
+
+this is a blog system with 
+	*Admin 			http://localhost/webpage/skoolo%20Technology/admin/index.php 		user name: admin	Password : admin2020
+	*Users look up at the menu bar to log in or create account if you dont have the account
+	*Readers
